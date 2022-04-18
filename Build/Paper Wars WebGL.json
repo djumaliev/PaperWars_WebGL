@@ -1,0 +1,16 @@
+{
+"companyName": "MAAT LLC",
+"productName": "Paper Wars",
+"productVersion": "1",
+"dataUrl": "Paper Wars WebGL.data.unityweb",
+"wasmCodeUrl": "Paper Wars WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Paper Wars WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
